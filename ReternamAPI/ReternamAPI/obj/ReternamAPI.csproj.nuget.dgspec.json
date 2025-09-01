@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bartek\\source\\repos\\ReternamAPI\\ReternamAPI\\ReternamAPI.csproj": {}
+    "C:\\Users\\Bartek\\Projekty\\Reternam-API\\ReternamAPI\\ReternamAPI\\ReternamAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bartek\\source\\repos\\ReternamAPI\\ReternamAPI\\ReternamAPI.csproj": {
+    "C:\\Users\\Bartek\\Projekty\\Reternam-API\\ReternamAPI\\ReternamAPI\\ReternamAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bartek\\source\\repos\\ReternamAPI\\ReternamAPI\\ReternamAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Bartek\\Projekty\\Reternam-API\\ReternamAPI\\ReternamAPI\\ReternamAPI.csproj",
         "projectName": "ReternamAPI",
-        "projectPath": "C:\\Users\\Bartek\\source\\repos\\ReternamAPI\\ReternamAPI\\ReternamAPI.csproj",
+        "projectPath": "C:\\Users\\Bartek\\Projekty\\Reternam-API\\ReternamAPI\\ReternamAPI\\ReternamAPI.csproj",
         "packagesPath": "C:\\Users\\Bartek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bartek\\source\\repos\\ReternamAPI\\ReternamAPI\\obj\\",
+        "outputPath": "C:\\Users\\Bartek\\Projekty\\Reternam-API\\ReternamAPI\\ReternamAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,7 +53,11 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.7, )"
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
             }
           },
           "imports": [
