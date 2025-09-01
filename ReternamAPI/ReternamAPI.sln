@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReternamAPI", "ReternamAPI\ReternamAPI.csproj", "{AD7C166A-83BB-406E-AE45-176E403B8A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD7C166A-83BB-406E-AE45-176E403B8A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7C166A-83BB-406E-AE45-176E403B8A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7C166A-83BB-406E-AE45-176E403B8A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7C166A-83BB-406E-AE45-176E403B8A09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA3C9B7E-C819-48BC-945A-83E6808D68FE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z7Ez34T/xZ8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bartek\\source\\repos\\ReternamAPI\\ReternamAPI\\ReternamAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bartek\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\Bartek\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
