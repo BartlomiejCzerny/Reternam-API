@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace ReternamAPI.Controllers
+namespace ReternamApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]

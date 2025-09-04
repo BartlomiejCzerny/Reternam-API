@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-namespace ReternamAPI.Models
+namespace ReternamApi.Models
 {
     public class Grave
     {
