@@ -1,4 +1,4 @@
-namespace ReternamAPI
+namespace ReternamApi
 {
     public class WeatherForecast
     {
