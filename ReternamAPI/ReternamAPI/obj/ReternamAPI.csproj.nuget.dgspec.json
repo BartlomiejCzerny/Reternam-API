@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bartek\\Projekty\\reternam-api\\ReternamApi\\ReternamAPI\\ReternamApi.csproj": {}
+    "C:\\Users\\Bartek\\Projekty\\reternam-api\\ReternamAPI\\ReternamAPI\\ReternamApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bartek\\Projekty\\reternam-api\\ReternamApi\\ReternamAPI\\ReternamApi.csproj": {
+    "C:\\Users\\Bartek\\Projekty\\reternam-api\\ReternamAPI\\ReternamAPI\\ReternamApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bartek\\Projekty\\reternam-api\\ReternamApi\\ReternamAPI\\ReternamApi.csproj",
+        "projectUniqueName": "C:\\Users\\Bartek\\Projekty\\reternam-api\\ReternamAPI\\ReternamAPI\\ReternamApi.csproj",
         "projectName": "ReternamApi",
-        "projectPath": "C:\\Users\\Bartek\\Projekty\\reternam-api\\ReternamApi\\ReternamAPI\\ReternamApi.csproj",
+        "projectPath": "C:\\Users\\Bartek\\Projekty\\reternam-api\\ReternamAPI\\ReternamAPI\\ReternamApi.csproj",
         "packagesPath": "C:\\Users\\Bartek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bartek\\Projekty\\reternam-api\\ReternamApi\\ReternamAPI\\obj\\",
+        "outputPath": "C:\\Users\\Bartek\\Projekty\\reternam-api\\ReternamAPI\\ReternamAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,6 +68,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
@@ -89,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
