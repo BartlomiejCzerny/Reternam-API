@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReternamApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+114d6f4fc889b7d7a5e90638a4d0937a88886530")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea79705ea8c28280fb433b7b707a9a26902538d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReternamApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReternamApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
